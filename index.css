@@ -1,0 +1,22 @@
+ body{
+    background-color:black;
+    color:greenyellow;
+    font-family:'SF Obliquities Extended', sans-serif;
+    }
+    div{
+        position: relative;
+    }
+    video{
+        position:absolute;
+        top:0;
+        left: 0;
+        width: 100%;
+        object-fit: cover;
+    }
+    .titulo{
+        background: black;
+        font-size: 150px;
+        text-align: center;
+        font-weight: 200;
+        mix-blend-mode: multiply;
+    }
